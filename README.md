@@ -2,7 +2,8 @@
 A collection of React components to speed up development with Tailwind CSS.
 
 ## Component List
- - [x] Button
+This is a list of all currently included components as well as ones I plan to add
+ - [x] Buttons
  - [x] Layout components (container, row, column)
  - [x] Cards
  - [x] Badges
@@ -13,3 +14,9 @@ A collection of React components to speed up development with Tailwind CSS.
  - [ ] Text Inputs
  - [ ] Dropdown Input
  - [ ] Alerts
+ - [ ] Modals
+ - [ ] Breadcrumbs
+ - [ ] Carousel
+ - [ ] Accordian
+
+...
